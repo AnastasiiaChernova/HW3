@@ -1,4 +1,5 @@
 # HW3
+PART I
 4. Кликнув на 3 устаревших слова, посмотрите их конкордансы.
 ![4.1.png](https://github.com/AnastasiiaChernova/HW3/blob/master/4.1.png)
 ![4.2.png](https://github.com/AnastasiiaChernova/HW3/blob/master/4.2.png)
@@ -11,3 +12,4 @@
 ![5.4.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.4.png)
 6. Постройте списки коллокатов выбранного вами слова (вкладка Collocates), указав границы окна справа / слева.
 ![6.png](https://github.com/AnastasiiaChernova/HW3/blob/master/6.png)
+PART II
