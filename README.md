@@ -7,3 +7,5 @@
 ![5.1.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.1.png)
 ![5.2.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.2.png)
 ![5.3.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.3.png)
+Кликнув на n-грам, вы также можете попасть в его конкорданс.
+![5.4.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.4.png)
