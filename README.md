@@ -9,3 +9,5 @@
 ![5.3.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.3.png)
 Кликнув на n-грам, вы также можете попасть в его конкорданс.
 ![5.4.png](https://github.com/AnastasiiaChernova/HW3/blob/master/5.4.png)
+6. Постройте списки коллокатов выбранного вами слова (вкладка Collocates), указав границы окна справа / слева.
+![6.png](https://github.com/AnastasiiaChernova/HW3/blob/master/6.png)
