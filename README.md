@@ -13,3 +13,5 @@ PART I
 6. Постройте списки коллокатов выбранного вами слова (вкладка Collocates), указав границы окна справа / слева.
 ![6.png](https://github.com/AnastasiiaChernova/HW3/blob/master/6.png)
 PART II
+1. Изучите фрагмент вашего текста, выделите устаревшие слова.
+![1.png](https://github.com/AnastasiiaChernova/HW3/blob/master/1.png)
