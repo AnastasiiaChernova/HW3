@@ -26,3 +26,6 @@ i.
 Что касается слова "сад", графики практически идентичны. И НКРЯ, и Google Ngrams фиксируют стабильно высокую употребляемость слова сад, начиная с третьей четверти 19 века (чему предшествует всплеск в 1820-е гг.).
 ![сад google ngrams.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сад%20google%20ngrams.png)
 ![сад нкря.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сад%20нкря.png)
+ii.
+![рекла вхождения.png](https://github.com/AnastasiiaChernova/HW3/blob/master/рекла%20вхождения.png)
+![сказала вхождения.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сказала%20вхождения.png)
