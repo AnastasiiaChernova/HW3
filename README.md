@@ -31,5 +31,5 @@ ii.
 ![рекла вхождения.png](https://github.com/AnastasiiaChernova/HW3/blob/master/рекла%20вхождения.png)
 ![сказала вхождения.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сказала%20вхождения.png)
 
-![рекла google ngrams.png](https://github.com/AnastasiiaChernova/HW3/blob/master/рекла%20google%20ngrams.png)
+![рекла google ngrams.png](https://github.com/AnastasiiaChernova/HW3/blob/master/рекла%20Google%20Ngrams.png)
 ![рекла нкря.png](https://github.com/AnastasiiaChernova/HW3/blob/master/рекла%20нкря.png)
