@@ -27,5 +27,6 @@ i.
 ![сад google ngrams.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сад%20google%20ngrams.png)
 ![сад нкря.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сад%20нкря.png)
 ii.
+Современнным аналогом слова "речь" является слово "сказать". Для исследования было принято решение использовать грамматическую форму, употребляемую в отрывке. Если сравнивать количество вхождений, слово "сказала" превосходит слово "рекла" в тысячи раз по количеству вхождений, следовательно, по частоте употребления. 
 ![рекла вхождения.png](https://github.com/AnastasiiaChernova/HW3/blob/master/рекла%20вхождения.png)
 ![сказала вхождения.png](https://github.com/AnastasiiaChernova/HW3/blob/master/сказала%20вхождения.png)
